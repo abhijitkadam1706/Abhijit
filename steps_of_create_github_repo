@@ -1,0 +1,16 @@
+
+    For local machine
+1.create a directory using mkdir command
+2.go in created directory using cd command
+3.give command git init to create git repository
+4.to verify enter ls command you will show .git
+
+   For github
+1.log in to github account
+2.click on create repository
+3.select public or private
+4.create directory
+
+   url for github repository
+
+https://github.com/abhijitkadam1706/Abhijit.git
